@@ -4,6 +4,7 @@ def square_array(array)
     Math.sqrt(array[counter])
     counter +=1
   end
+  array
 end
 
 numbers = [1, 2, 3]
